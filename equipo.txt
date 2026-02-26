@@ -1,19 +1,21 @@
 === FICHA DEL EQUIPO ===
 
 ESTADO DEL PROYECTO: En planificación
-VERSIÓN: 0.1
+VERSIÓN: 1.0
+
 
 === INTEGRANTE A — COORDINADOR/A ===
-Nombre: (Persona A: escribe tu nombre completo)
+Nombre: [Victor Sanchez]
 Tecnología asignada: React
-Estado personal: Pendiente
+Estado personal: En progreso
 
 === INTEGRANTE B ===
-Nombre: (Persona B: escribe tu nombre completo)
+Nombre: [Gerard Català]
 Tecnología asignada: Node.js
-Estado personal: Pendiente
+Estado personal: En progreso
+
 
 === INTEGRANTE C ===
-Nombre: (Persona C: escribe tu nombre completo)
+Nombre: [Hengan Zhang]
 Tecnología asignada: MongoDB
-Estado personal: Pendiente
+Estado personal: En progreso
