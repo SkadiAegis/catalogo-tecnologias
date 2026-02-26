@@ -1,7 +1,8 @@
 === FICHA DEL EQUIPO ===
 
 ESTADO DEL PROYECTO: En planificación
-VERSIÓN: 0.2
+VERSIÓN: 1.0
+
 
 === INTEGRANTE A — COORDINADOR/A ===
 Nombre: [nombre real de Persona A]
@@ -15,6 +16,6 @@ Estado personal: En progreso
 
 
 === INTEGRANTE C ===
-Nombre: (Persona C: escribe tu nombre completo)
+Nombre: [Hengan Zhang]
 Tecnología asignada: MongoDB
-Estado personal: Pendiente
+Estado personal: En progreso

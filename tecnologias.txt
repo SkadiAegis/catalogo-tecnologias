@@ -1,8 +1,6 @@
 === CATÁLOGO DE TECNOLOGÍAS WEB ===
-
 ÚLTIMA REVISIÓN: (completar con la fecha actual)
 RESPONSABLE: (completar con el nombre del revisor)
-
 --- FRONTEND ---
 [ASIGNADO A PERSONA A]
 Tecnología: React
@@ -20,6 +18,6 @@ Recurso: [URL o nombre de recurso]
 --- BASE DE DATOS ---
 [ASIGNADO A PERSONA C]
 Tecnología: MongoDB
-Descripción: (Persona C: escribe una descripción breve)
-Nivel: (Persona C: Básico / Intermedio / Avanzado)
-Recurso: (Persona C: escribe una URL o nombre de recurso)
+Descripción: Base de datos NoSQL orientada a documentos (formato JSON/BSON), flexible y escalable, muy usada en aplicaciones web modernas.
+Nivel: Intermedio
+Recurso: Documentación oficial de MongoDB (MongoDB Docs)
