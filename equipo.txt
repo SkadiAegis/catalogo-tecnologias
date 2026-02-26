@@ -5,7 +5,7 @@ VERSIÓN: 1.0
 
 
 === INTEGRANTE A — COORDINADOR/A ===
-Nombre: [nombre real de Persona A]
+Nombre: [Victor Sanchez]
 Tecnología asignada: React
 Estado personal: En progreso
 
