@@ -1,6 +1,6 @@
 === CATÁLOGO DE TECNOLOGÍAS WEB ===
 ÚLTIMA REVISIÓN: [27/02/2026]
-RESPONSABLE: [Gerard Català]
+RESPONSABLE: [Hengan Zhang]
 --- FRONTEND ---
 [ASIGNADO A PERSONA A]
 Tecnología: React
